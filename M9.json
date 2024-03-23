@@ -1,0 +1,38 @@
+[
+    {
+        "Album Title": "shi_nian",
+        "Artist": "chen_yixun",
+        "Songs": [
+            "shi_nian",
+            "tian_ya_guo_ke",
+            "ai_qing_zhuan_yi",
+            "rang_wo_liu_zai_ni_shen_bian",
+            "fu_shi_shan_xia"
+        ],
+        "Year": 2003
+    },
+    {
+        "Album Title": "Jay",
+        "Artist": "zhou_jielun",
+        "Songs": [
+            "ke_ai_nv_ren",
+            "an_jing",
+            "jian_dan_ai",
+            "ai_zai_xi_yuan_qian",
+            "kai_bu_liao_kou"
+        ],
+        "Year": 2000
+    },
+    {
+        "Album Title": "qing_chun_xiu_lian_shou_ce",
+        "Artist": "TFBOYS",
+        "Songs": [
+            "qing_chun_xiu_lian_shou_ce",
+            "meng_xiang_kai_shi_de_di_fang",
+            "qing_chun_wan_sui",
+            "ben_pao_ba",
+            "wo_men_de_jie_ri"
+        ],
+        "Year": 2016
+    }
+]
